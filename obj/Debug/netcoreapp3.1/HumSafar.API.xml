@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HumSafar.API</name>
+    </assembly>
+    <members>
+        <member name="M:HumSafar.API.Controllers.UserController.RegisterUser(HumSafar.API.DTOs.Request.RegisterUserRequest)">
+            <summary>
+            API to add a new user
+            </summary>
+            <param name="data">Enter details of new user</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
