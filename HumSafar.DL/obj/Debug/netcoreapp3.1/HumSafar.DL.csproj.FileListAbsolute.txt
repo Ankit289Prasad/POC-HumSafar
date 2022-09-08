@@ -1,0 +1,13 @@
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\bin\Debug\netcoreapp3.1\HumSafar.DL.deps.json
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\bin\Debug\netcoreapp3.1\HumSafar.DL.runtimeconfig.json
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\bin\Debug\netcoreapp3.1\HumSafar.DL.runtimeconfig.dev.json
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\bin\Debug\netcoreapp3.1\HumSafar.DL.dll
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\bin\Debug\netcoreapp3.1\HumSafar.DL.pdb
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.csproj.AssemblyReference.cache
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.AssemblyInfoInputs.cache
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.AssemblyInfo.cs
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.csproj.CoreCompileInputs.cache
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.dll
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.pdb
+C:\Users\Ankit.Prasad\source\repos\HumSafar.API\HumSafar.DL\obj\Debug\netcoreapp3.1\HumSafar.DL.genruntimeconfig.cache
